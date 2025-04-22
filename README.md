@@ -19,7 +19,7 @@ A machine learning-powered web app that classifies e-commerce product reviews as
 
 ## 📸 Demo Screenshot
 
-![Fake Review Detector UI](https://raw.githubusercontent.com/CyberBoyAyush/FakeReviewDetection/demo.png)
+![Fake Review Detector UI](/demo.png)
 
 ---
 
