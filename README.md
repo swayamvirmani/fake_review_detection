@@ -1,4 +1,3 @@
-
 # 🧠 Fake Review Detection
 A machine learning-powered web app that classifies e-commerce product reviews as **Real** or **Fake** with high confidence, hype score tracking, and user-friendly Gradio interface.
 
@@ -17,9 +16,15 @@ A machine learning-powered web app that classifies e-commerce product reviews as
 
 ---
 
-## 📸 Demo Screenshot
+## 📸 Demo Screenshots
 
+### Main Interface
 ![Fake Review Detector UI](/demo.png)
+
+### Result Examples
+| Real Review (High Confidence) | Fake Review (High Confidence) | Hyped Review Detection |
+|:----------------------------:|:-----------------------------:|:----------------------:|
+| ![Real Review Example](/real.png) | ![Fake Review Example](/fake.png) | ![Hyped Review Example](/low.png) |
 
 ---
 
