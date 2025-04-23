@@ -37,7 +37,7 @@ A machine learning-powered web app that classifies e-commerce product reviews as
 
 ```
 FakeReviewDetection/
-├── fake_review_detector_gradio.py   # Main Gradio app
+├── model.py   # Main Gradio app
 ├── updated_fake_reviews_dataset.csv       # Labeled reviews dataset
 ├── requirements.txt                       # Package dependencies
 └── README.md                              # This file
@@ -70,7 +70,7 @@ pip install -r requirements.txt
 ### 4️⃣ Launch the App
 
 ```bash
-python fake_review_detector_gradio.py
+python model.py
 ```
 
 Then open the local link in your browser (usually [http://127.0.0.1:7860](http://127.0.0.1:7860)).
