@@ -107,14 +107,4 @@ with gr.Blocks(title="Fake Review Detector by Ayush & Vranda") as demo:
     predict_btn.click(analyze, inputs=review_input, outputs=[label_output, explain_output])
 
     gr.Markdown("---")
-
-    gr.Markdown(
-        """
-        <div style="text-align: center; font-size: 0.9em; padding-top: 1em;">
-            🛠️ Built with ❤️ by <b>Ayush Sharma</b> & <b>Vranda Garg</b>
-        </div>
-        """,
-        elem_id="footer"
-    )
-
 demo.launch()
