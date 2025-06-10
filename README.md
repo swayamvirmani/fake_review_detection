@@ -1,7 +1,6 @@
 # 🧠 Fake Review Detection
 A machine learning-powered web app that classifies e-commerce product reviews as **Real** or **Fake** with high confidence, hype score tracking, and user-friendly Gradio interface.
 
-> 🔍 Built with ❤️ by **Ayush Sharma** and **Vranda Garg**
 
 ---
 
@@ -55,8 +54,8 @@ FakeReviewDetection/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/CyberBoyAyush/FakeReviewDetection.git
-cd FakeReviewDetection
+git clone https://github.com/swayamvirmani/fake_review_detection.git
+cd fake_review_detection
 ```
 
 ### 2️⃣ Create and Activate Conda Environment
@@ -100,16 +99,8 @@ Simple and effective — no complaints. Quiet and reliable.
 
 ---
 
-## 📌 Authors
 
-- 👨‍💻 Ayush Sharma [@CyberBoyAyush](https://github.com/CyberBoyAyush)
-- 👩‍💻 Vranda Garg
 
----
-
-## 📢 License
-
-This project is for educational/demo purposes. No commercial use or resale of dataset permitted.
 
 ---
 
