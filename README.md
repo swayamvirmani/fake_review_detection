@@ -18,12 +18,12 @@ A machine learning-powered web app that classifies e-commerce product reviews as
 ## 📸 Demo Screenshots
 
 ### Main Interface
-![Fake Review Detector UI](/demo.png)
+![Fake Review Detector UI](/)
 
 ### Result Examples
 | Real Review (High Confidence) | Fake Review (High Confidence) | Hyped Review Detection |
 |:----------------------------:|:-----------------------------:|:----------------------:|
-| ![Real Review Example](/real.png) | ![Fake Review Example](/fake.png) | ![Hyped Review Example](/low.png) |
+| ![Real Review Example](/) | ![Fake Review Example](/) | ![Hyped Review Example](/) |
 
 ---
 
